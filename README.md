@@ -5,7 +5,7 @@
 - [wordplate](https://github.com/wordplate/wordplate)
 - [Laravel mix](https://github.com/JeffreyWay/laravel-mix)
 - [ES6](https://es6.io/)
-- [Siems](https://github.com/pawelgrzybek/siema)
+- [Siema](https://github.com/pawelgrzybek/siema)
 - [ShipIt](https://github.com/shipitjs/shipit)
 - [include-media](https://github.com/eduardoboucas/include-media)
 - [animejs](https://github.com/juliangarnier/anime)
