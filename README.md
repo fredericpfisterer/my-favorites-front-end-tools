@@ -10,3 +10,4 @@
 - [include-media](https://github.com/eduardoboucas/include-media)
 - [animejs](https://github.com/juliangarnier/anime)
 - [Flickity](https://github.com/metafizzy/flickity)
+- [Slick](https://github.com/kenwheeler/slick)
