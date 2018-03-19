@@ -9,3 +9,4 @@
 - [ShipIt](https://github.com/shipitjs/shipit)
 - [include-media](https://github.com/eduardoboucas/include-media)
 - [animejs](https://github.com/juliangarnier/anime)
+- [Flickity](https://github.com/metafizzy/flickity)
