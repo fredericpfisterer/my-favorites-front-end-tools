@@ -11,3 +11,4 @@
 - [animejs](https://github.com/juliangarnier/anime)
 - [Flickity](https://github.com/metafizzy/flickity)
 - [Slick](https://github.com/kenwheeler/slick)
+- [Mjml](https://github.com/mjmlio/mjml)
