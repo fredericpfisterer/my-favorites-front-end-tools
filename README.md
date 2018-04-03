@@ -4,6 +4,7 @@
 - [basicScroll](https://github.com/electerious/basicScroll)
 - [wordplate](https://github.com/wordplate/wordplate)
 - [Laravel mix](https://github.com/JeffreyWay/laravel-mix)
+- [Laravel Valet](https://github.com/laravel/valet)
 - [ES6](https://es6.io/)
 - [Siema](https://github.com/pawelgrzybek/siema)
 - [ShipIt](https://github.com/shipitjs/shipit)
