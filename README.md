@@ -13,3 +13,4 @@
 - [Flickity](https://github.com/metafizzy/flickity)
 - [Slick](https://github.com/kenwheeler/slick)
 - [Mjml](https://github.com/mjmlio/mjml)
+- [Cookie Consent](https://cookieconsent.insites.com/)
