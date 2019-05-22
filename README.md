@@ -10,6 +10,8 @@
 - [Slick](https://github.com/kenwheeler/slick)
 - [Cookie Consent](https://cookieconsent.insites.com/)
 
+- [scrollama](https://github.com/russellgoldenberg/scrollama)
+
 ## CSS / SCSS
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 - [include-media](https://github.com/eduardoboucas/include-media)
