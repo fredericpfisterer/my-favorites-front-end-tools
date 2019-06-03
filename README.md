@@ -9,6 +9,7 @@
 - [Flickity](https://github.com/metafizzy/flickity)
 - [Slick](https://github.com/kenwheeler/slick)
 - [Cookie Consent](https://cookieconsent.insites.com/)
+- [Tornis](https://tornis.robbowen.digital)
 
 - [scrollama](https://github.com/russellgoldenberg/scrollama)
 
