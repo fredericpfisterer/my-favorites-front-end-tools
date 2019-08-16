@@ -13,9 +13,9 @@
 ### Scrolling
 - [basicScroll](https://github.com/electerious/basicScroll)
 - [scrollama](https://github.com/russellgoldenberg/scrollama)
-- [laxxx] (https://github.com/alexfoxy/laxxx)
-- [scrollama] (https://github.com/russellgoldenberg/scrollama)
-- [sal] (https://github.com/mciastek/sal)
+- [laxxx](https://github.com/alexfoxy/laxxx)
+- [scrollama](https://github.com/russellgoldenberg/scrollama)
+- [sal](https://github.com/mciastek/sal)
 
 ## CSS / SCSS
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize)
