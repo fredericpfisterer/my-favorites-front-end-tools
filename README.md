@@ -1,7 +1,6 @@
 # My favorites front-end tools
 
 ## Javascript
-- [basicScroll](https://github.com/electerious/basicScroll)
 - [ES6](https://es6.io/)
 - [Siema](https://github.com/pawelgrzybek/siema)
 - [ShipIt](https://github.com/shipitjs/shipit)
@@ -11,7 +10,12 @@
 - [Cookie Consent](https://cookieconsent.insites.com/)
 - [Tornis](https://tornis.robbowen.digital)
 
+### Scrolling
+- [basicScroll](https://github.com/electerious/basicScroll)
 - [scrollama](https://github.com/russellgoldenberg/scrollama)
+- [laxxx] (https://github.com/alexfoxy/laxxx)
+- [scrollama] (https://github.com/russellgoldenberg/scrollama)
+- [sal] (https://github.com/mciastek/sal)
 
 ## CSS / SCSS
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize)
