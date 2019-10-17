@@ -9,6 +9,7 @@
 - [Slick](https://github.com/kenwheeler/slick)
 - [Cookie Consent](https://cookieconsent.insites.com/)
 - [Tornis](https://tornis.robbowen.digital)
+- [Splitting.js](https://github.com/shshaw/splitting/)
 
 ### Scrolling
 - [basicScroll](https://github.com/electerious/basicScroll)
