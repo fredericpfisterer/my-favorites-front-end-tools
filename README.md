@@ -10,6 +10,7 @@
 - [Cookie Consent](https://cookieconsent.insites.com/)
 - [Tornis](https://tornis.robbowen.digital)
 - [Splitting.js](https://github.com/shshaw/splitting/)
+- [OGL](https://github.com/oframe/ogl)
 
 ### Scrolling
 - [basicScroll](https://github.com/electerious/basicScroll)
