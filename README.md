@@ -12,12 +12,13 @@
 - [Splitting.js](https://github.com/shshaw/splitting/)
 - [OGL](https://github.com/oframe/ogl)
 
-### Scrolling
-- [basicScroll](https://github.com/electerious/basicScroll)
-- [scrollama](https://github.com/russellgoldenberg/scrollama)
-- [laxxx](https://github.com/alexfoxy/laxxx)
+### Scrolling Libraries using IntersectionObserver
 - [scrollama](https://github.com/russellgoldenberg/scrollama)
 - [sal](https://github.com/mciastek/sal)
+
+### Other Scrolling Libraries
+- [basicScroll](https://github.com/electerious/basicScroll)
+- [laxxx](https://github.com/alexfoxy/laxxx)
 
 ## CSS / SCSS
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize)
