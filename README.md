@@ -15,7 +15,7 @@
 ### Scrolling Libraries using IntersectionObserver
 - [scrollama](https://github.com/russellgoldenberg/scrollama)
 - [sal](https://github.com/mciastek/sal)
-- [locomotive](https://locomotivemtl.github.io/locomotive-scroll/)
+- [locomotive scroll](https://locomotivemtl.github.io/locomotive-scroll/)
 
 ### Other Scrolling Libraries
 - [basicScroll](https://github.com/electerious/basicScroll)
